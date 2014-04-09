@@ -13,7 +13,6 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-csslint",
-		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
