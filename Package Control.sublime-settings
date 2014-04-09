@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"ColorPicker",
+		"GitGutter",
+		"Markdown Preview",
+		"Package Syncing",
+		"Pretty JSON",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Sublimerge Pro",
+		"Theme - Sodarized"
+	]
+}
