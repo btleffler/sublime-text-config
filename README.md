@@ -15,3 +15,4 @@ For when I may not have access to my online file storage of choice.
    *   Install [Package Syncing](https://sublime.wbond.net/packages/Package%20Syncing)
       *   [Tell Package Syncing where you cloned your config](https://github.com/csch0/SublimeText-Package-Syncing#second-machine-or-after-a-fresh-installation)
    *   Get coding!
+   *   Whenever changes are made, ``commit`` and ``push`` them. Next time you're on another machine without access to a syncing online file storage, ``pull`` changes from this repo and Package Syncing will do the rest.
