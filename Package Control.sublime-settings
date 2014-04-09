@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"ColorPicker",
 		"GitGutter",
 		"Markdown Preview",
