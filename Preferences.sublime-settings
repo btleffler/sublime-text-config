@@ -1,15 +1,15 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Liberation Mono",
+	"font_face": "Inconsolata-g",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"directwrite"
 	],
-	"font_size": 13,
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -26,6 +26,6 @@
 	],
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Sodarized Light.sublime-theme",
+	"theme": "Sodarized Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
