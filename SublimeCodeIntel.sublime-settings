@@ -32,9 +32,8 @@
 	*/
 	"codeintel_enabled_languages":
 	[
-		"JavaScript", "Mason", "XBL", "XUL", "RHTML", "SCSS", "Python", "HTML",
-		"Ruby", "Python3", "XML", "Sass", "XSLT", "Django", "HTML5", "Perl", "CSS",
-		"Twig", "Less", "Smarty", "Node.js", "Tcl", "TemplateToolkit", "PHP"
+		"JavaScript", "Python", "HTML", "HTML5", "CSS", "Twig", "Less", "Node.js",
+		"PHP"
 	],
 
 	/*
@@ -50,9 +49,8 @@
 	*/
 	"codeintel_live_enabled_languages":
 	[
-		"JavaScript", "Mason", "XBL", "XUL", "RHTML", "SCSS", "Python", "HTML",
-		"Ruby", "Python3", "XML", "Sass", "XSLT", "Django", "HTML5", "Perl", "CSS",
-		"Twig", "Less", "Smarty", "Node.js", "Tcl", "TemplateToolkit", "PHP"
+		"JavaScript", "Python", "HTML", "HTML5", "CSS", "Twig", "Less", "Node.js",
+		"PHP"
 	],
 
 	/*
