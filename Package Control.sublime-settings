@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"Color Highlighter",
 		"ColorPicker",
 		"GitGutter",
 		"Markdown Preview",
@@ -9,6 +10,7 @@
 		"Pretty JSON",
 		"SideBarGit",
 		"Solarized Toggle",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-coffeelint",
