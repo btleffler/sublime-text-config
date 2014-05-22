@@ -22,3 +22,4 @@ For when I may not have access to my online file storage of choice.
       *   node.js, npm
          *   coffee-script, coffeelint, jshint, csslint
       *   php
+         *   phpmd, phpcs

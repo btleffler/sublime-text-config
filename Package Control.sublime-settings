@@ -18,6 +18,8 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
 		"Sublimerge Pro",
 		"Theme - Sodarized"
 	]
