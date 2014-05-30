@@ -25,7 +25,7 @@
 	[
 		80
 	],
-	"soda_classic_tabs": true,
+	// "soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Sodarized Dark.sublime-theme",
