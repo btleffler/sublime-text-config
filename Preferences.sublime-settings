@@ -26,6 +26,7 @@
 		80
 	],
 	"soda_folder_icons": true,
+	"bold_folder_labels": true,
 	"tab_size": 2,
 	"theme": "Sodarized Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true
