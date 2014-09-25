@@ -18,7 +18,6 @@
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-golint",
 		"SublimeLinter-contrib-gotype",
-		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
