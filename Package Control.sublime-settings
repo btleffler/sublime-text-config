@@ -1,7 +1,9 @@
 {
 	"installed_packages":
 	[
+		"AutoFileName",
 		"Better CoffeeScript",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
@@ -9,7 +11,7 @@
 		"Indent XML",
 		"Jade",
 		"Javascript Beautify",
-		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Syncing",
 		"PHP-Twig",
 		"Pretty JSON",

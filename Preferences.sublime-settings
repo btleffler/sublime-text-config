@@ -13,8 +13,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"GitGutter",
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
