@@ -2,7 +2,6 @@
 	"installed_packages":
 	[
 		"AutoFileName",
-		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"DocBlockr",
@@ -16,19 +15,13 @@
 		"PHP-Twig",
 		"Pretty JSON",
 		"Razor",
-		"SfCommand",
-		"Solarized Toggle",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-coffeelint",
-		"SublimeLinter-contrib-golint",
-		"SublimeLinter-contrib-gotype",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Theme - Cobalt2",
-		"Theme - Sodarized",
 		"Zen Tabs"
 	]
 }
