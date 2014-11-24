@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
+	"color_scheme": "Packages/User/Kalopsia (SL).tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Inconsolata-g",
@@ -26,6 +26,6 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "Cobalt2.sublime-theme",
+	"theme": "Void.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
