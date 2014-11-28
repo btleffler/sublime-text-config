@@ -3,7 +3,7 @@
 	"color_scheme": "Packages/User/Kalopsia (SL).tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Source Code Pro",
+	"font_face": "Source Code Pro Medium",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -12,8 +12,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
