@@ -6,7 +6,8 @@
 	"font_face": "DejaVu Sans Mono",
 	"font_options":
 	[
-		"subpixel_antialias"
+		"subpixel_antialias",
+		"directwrite"
 	],
 	"font_size": 16,
 	"highlight_modified_tabs": true,
