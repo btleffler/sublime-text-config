@@ -1,8 +1,8 @@
 {
-	"color_scheme_dark": "Packages/Theme - Freesia/Kalopsia.tmTheme",
+	"color_scheme_dark": "Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme",
 	"color_scheme_light": "Packages/Theme - Nil/Sanakan.tmTheme",
 	"enable_theme_switching": true,
 	"solarized_toggle_mode": "dark",
-	"theme_dark": "Void.sublime-theme",
-	"theme_light": "Higuchi.sublime-theme"
+	"theme_dark": "Gravity.sublime-theme",
+	"theme_light": "Reverse Gravity.sublime-theme"
 }

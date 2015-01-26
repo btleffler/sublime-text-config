@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
@@ -6,11 +14,13 @@
 		"Color Highlighter",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
-		"GitGutter-Edge",
+		"HexViewer",
 		"Indent XML",
 		"Jade",
 		"Javascript Beautify",
+		"jQuery",
 		"MarkdownEditing",
+		"Package Control",
 		"Package Syncing",
 		"PHP-Twig",
 		"Pretty JSON",
@@ -23,7 +33,9 @@
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Theme - Freesia",
+		"Theme - Gravity",
 		"Theme - Nil",
+		"VCS Gutter",
 		"Zen Tabs"
 	]
 }

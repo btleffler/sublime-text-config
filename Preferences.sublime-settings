@@ -1,19 +1,19 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Kalopsia (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Source Code Pro Medium",
+	"font_face": "DejaVu Sans Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 16,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -25,6 +25,6 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "Void.sublime-theme",
+	"theme": "Gravity.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
